@@ -1,0 +1,78 @@
+.chemistry img {
+  width: 35%;
+  display: inline;
+  padding: 5px;
+  margin-bottom: 2em;
+}
+
+.img-english img {
+  float: left;
+  width: 30%;
+  padding: 5px;
+}
+
+.img-bg {
+  margin-top: 0.5em;
+  margin-left: 7em;
+}
+figure .physics {
+  margin-top: 5em;
+}
+figure .chemistry {
+  margin-top: 0.5em;
+}
+figure .english {
+  margin-top: 2em;
+}
+.container-maths {
+  float: left;
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-top: 5%;
+}
+.mathsdiv img{
+  float: left;
+  width: 48%;
+  height: 20%;
+  display: inline-table;
+  content: "";
+  margin-bottom: 1em;
+  padding: 5px;
+}
+.mathsdiv2 img {
+  float: left;
+  content: "";
+  width: 19%;
+  height: 12%;
+  display: inline-table;
+  padding:0.1em;
+}
+.mathsimg img {
+  float: left;
+  width: 47.5%;
+  display: inline;
+  padding: 3px;
+}
+.physicsdiv {
+  float: left;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+.physics img {
+  float: left;
+  width: 19%;
+  height: 15%;
+  display: inline;
+  padding: 3px;
+}
+.chemistrydiv {
+  margin-top: 10em;
+  float: left;
+  margin-left: 4%;
+  margin-right: 4%;
+}
+.englishdiv {
+  float: left;
+  margin-left: 4%;
+  margin-right: 4%;
+}
